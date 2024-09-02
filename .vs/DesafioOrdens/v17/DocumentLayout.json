@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesafioOrdens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\repositories\\apontamentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\repositories\\apontamentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\models\\productordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\models\\productordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\models\\apontamentosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\models\\apontamentosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\controllers\\productordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\controllers\\productordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\services\\productorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\services\\productorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\services\\iproductorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\services\\iproductorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\repositories\\productorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\repositories\\productorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\repositories\\iproductorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\repositories\\iproductorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\repositories\\iapontamentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\repositories\\iapontamentosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\services\\exceptions\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\services\\exceptions\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\views\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\views\\vieworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|c:\\projetos\\desafioordens\\desafioordens\\views\\viewnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AD363C-9C6E-4937-92A0-ABBE1F877172}|DesafioOrdens\\ApiProductOrders.csproj|solutionrelative:desafioordens\\views\\viewnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewNotes.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Views\\ViewNotes.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Views\\ViewNotes.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Views\\ViewNotes.cs",
+              "RelativeToolTip": "DesafioOrdens\\Views\\ViewNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:54:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewOrders.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Views\\ViewOrders.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Views\\ViewOrders.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Views\\ViewOrders.cs",
+              "RelativeToolTip": "DesafioOrdens\\Views\\ViewOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:54:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductException.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\Exceptions\\ProductException.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Services\\Exceptions\\ProductException.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\Exceptions\\ProductException.cs",
+              "RelativeToolTip": "DesafioOrdens\\Services\\Exceptions\\ProductException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:56:15.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Program.cs",
+              "RelativeToolTip": "DesafioOrdens\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:23:42.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Constants.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Constants.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Constants.cs",
+              "RelativeToolTip": "DesafioOrdens\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:34:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IApontamentosRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\IApontamentosRepository.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Repositories\\IApontamentosRepository.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\IApontamentosRepository.cs",
+              "RelativeToolTip": "DesafioOrdens\\Repositories\\IApontamentosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:04:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApontamentosRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\ApontamentosRepository.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Repositories\\ApontamentosRepository.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\ApontamentosRepository.cs",
+              "RelativeToolTip": "DesafioOrdens\\Repositories\\ApontamentosRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:04:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductOrderRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\IProductOrderRepository.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Repositories\\IProductOrderRepository.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\IProductOrderRepository.cs",
+              "RelativeToolTip": "DesafioOrdens\\Repositories\\IProductOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:03:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductOrderRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\ProductOrderRepository.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Repositories\\ProductOrderRepository.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Repositories\\ProductOrderRepository.cs",
+              "RelativeToolTip": "DesafioOrdens\\Repositories\\ProductOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:03:45.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductOrderController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Controllers\\ProductOrderController.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Controllers\\ProductOrderController.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Controllers\\ProductOrderController.cs",
+              "RelativeToolTip": "DesafioOrdens\\Controllers\\ProductOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:52:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductOrderService.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\IProductOrderService.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Services\\IProductOrderService.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\IProductOrderService.cs",
+              "RelativeToolTip": "DesafioOrdens\\Services\\IProductOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:16:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductOrderService.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\ProductOrderService.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Services\\ProductOrderService.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Services\\ProductOrderService.cs",
+              "RelativeToolTip": "DesafioOrdens\\Services\\ProductOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:58:54.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApontamentosModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Models\\ApontamentosModel.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Models\\ApontamentosModel.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Models\\ApontamentosModel.cs",
+              "RelativeToolTip": "DesafioOrdens\\Models\\ApontamentosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:53:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductOrderModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Models\\ProductOrderModel.cs",
+              "RelativeDocumentMoniker": "DesafioOrdens\\Models\\ProductOrderModel.cs",
+              "ToolTip": "C:\\Projetos\\DesafioOrdens\\DesafioOrdens\\Models\\ProductOrderModel.cs",
+              "RelativeToolTip": "DesafioOrdens\\Models\\ProductOrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:47:29.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

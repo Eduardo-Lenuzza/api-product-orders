@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eHzFJ5epZ1rdrHi4H7iNi6ZOq2fsFswpyh6dtoR6CjU=",
+  "Source": "ApiProductOrders",
+  "BasePath": "_content/ApiProductOrders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

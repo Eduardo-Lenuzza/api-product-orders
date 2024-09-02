@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProductOrders", "DesafioOrdens\ApiProductOrders.csproj", "{D5AD363C-9C6E-4937-92A0-ABBE1F877172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AD363C-9C6E-4937-92A0-ABBE1F877172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AD363C-9C6E-4937-92A0-ABBE1F877172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AD363C-9C6E-4937-92A0-ABBE1F877172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AD363C-9C6E-4937-92A0-ABBE1F877172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703F8896-6840-4FA5-8E62-9E96F35249F3}
+	EndGlobalSection
+EndGlobal
